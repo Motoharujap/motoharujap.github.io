@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "sellers": [
+    {
+      "seller_id": "pub-4533645749910533",
+      "name": "Exponential Dog",
+      "domain": "motoharujap.github.io",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0
+    }
+  ]
+}
